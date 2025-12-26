@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Anıl</h1>
-<h3 align="center">Software Engineering Student</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniilkeles&label=Profile%20views&color=0e75b6&style=flat" alt="aniilkeles" /> </p>
 
